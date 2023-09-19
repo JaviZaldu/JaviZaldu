@@ -7,7 +7,7 @@
 
 ## Un poco sobre mí
 <h4 align="center">Full Stack Developer | JavaScript - React - Node |</h4> 
-Soy un apasionado estudiante de Desarrollo Web Full Stack y entusiasta del Marketing. Actualmente, me encuentro formándome en desarrollo web Full Stack en SoyHenry.
+Soy un apasionado Desarrollador Web Full Stack y entusiasta del Marketing.
 
 ## Objetivo
 
